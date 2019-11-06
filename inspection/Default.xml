@@ -5,6 +5,7 @@
       <list>
         <option value="tours.models.Tour.Tour.objects" />
         <option value="tours.models.Tour.Tour.DoesNotExist" />
+        <option value="tours.models.Tour.Tour.__getitem__" />
       </list>
     </option>
   </inspection_tool>
